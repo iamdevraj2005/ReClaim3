@@ -1,2 +1,8 @@
-# ReClaim3
-Our Refurbished Product Marketplace is a MERN-based eCommerce platform for buying, selling, and renting refurbished electronics, furniture. It offers quality assurance, dynamic pricing rental security deposits. Users can securely rent or purchase items with multiple payment options, ensuring affordability and sustainability. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
